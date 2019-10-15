@@ -10,3 +10,4 @@ pip install -r requeriments.txt
 
 python manage.py runserver 8000
 
+(now start Vue.js app from frontend folder)
