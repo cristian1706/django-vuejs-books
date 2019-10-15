@@ -1,2 +1,3 @@
 # django-vuejs-books
-A tutorial for Django and Vue.js!
+
+A CRUD tutorial for DRF and Vue.js!
